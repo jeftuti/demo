@@ -1,14 +1,32 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+ shows = [
+       {
+         id: "1",
+         name: 'Roteiro dos Bandeirantes',
+         description: 'Roteiro que visa conhecer um pouco da historia da formação do Brasil através das aventuras de alguns dos primeiros exploradores do pais',
+         imgUrl: 'https://www.sd.tur.br/images/meta/64b11b1c-d107-423b-92d9-87adcc0e50fd/247ea44c-a638-454e-9bfe-45c498ae7e02/63.jpg',
+         isFavorite: false
+       },
+       {
+         id: "2",
+         name: 'São Roque delicioso rota de Baco',
+         description: 'Roteiro que visa conhecer um pouco da historia da formação do Brasil através das aventuras de alguns dos primeiros exploradores do pais',
+         imgUrl: 'https://www.viladonpatto.com.br/assets/uploads/blog/qyrq0gc2k7448gook8.png',
+         isFavorite: false
+       },
+       {
+         id: "3",
+         name: 'Beco do Batman',
+         description: 'Roteiro que vale conhecer o resultado da conscepção da arte urbana das periferias para as grandes galerias',
+         imgUrl: 'https://www.melhoresdestinos.com.br/wp-content/uploads/2020/02/beco-do-batman-capa2019-01.jpg',
+         isFavorite: false
+       },
+       {
+         id: "4", 
+         name: 'Parelheiros',
+         description: 'Roteiro que visa conhecer um pouco da historia da formação do Brasil através das aventuras de alguns dos primeiros exploradores do pais',
+         imgUrl: 'https://www.viladonpatto.com.br/assets/uploads/blog/qyrq0gc2k7448gook8.png',
+         isFavorite: false        
+      }
+ 
+ 
+     ];
